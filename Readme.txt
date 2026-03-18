@@ -1,0 +1,2 @@
+🚀 Mi Portafolio Profesional
+Este proyecto es una vitrina interactiva que organiza mis trabajos en Análisis de Datos, Desarrollo Web y Automatización. Utiliza un sistema de filtrado dinámico para facilitar la navegación por categorías.
